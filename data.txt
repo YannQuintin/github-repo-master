@@ -1,0 +1,6 @@
+code .
+Name: Yann Quintin
+
+Age: 30
+
+Favorite Color: Emerald green
